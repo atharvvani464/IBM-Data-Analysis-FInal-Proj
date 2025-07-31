@@ -1,4 +1,4 @@
-Final Project in IBM Data Science Certificate Data Analysis with Python Course
+# Final Project in IBM Data Science Certificate Data Analysis with Python Course
 
 Topics Covered: 
 - Importing Data Sets
