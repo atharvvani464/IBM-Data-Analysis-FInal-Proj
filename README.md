@@ -7,7 +7,7 @@ Topics Covered:
 - Model Development
 - Model Evaluation and Refinement
 
-Possible Future Direction: Explore Projects:
+Possible Future Direction - Explore Projects:
 - Data Normalization Techniques
 - Encoding Categorical Variables in Regression Models(Binary)
 - Polynomial Regression & Pipelines
